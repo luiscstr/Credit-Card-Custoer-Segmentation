@@ -1,4 +1,4 @@
-Unsupervised learning techniques to divide customers in segments based on their credit card consumption habits
+The marketing team of a bank wants to launch a targeted ad marketing campaign by dividing their customers into at least 3 distinctive groups.  Unsupervised learning techniques to divide customers in segments based on their credit card consumption habits. 
 
 The following methods/techniques are used in this project:
 
