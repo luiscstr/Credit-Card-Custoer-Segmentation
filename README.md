@@ -1,5 +1,5 @@
 **BUSINESS CONTEXT**
-\The marketing team of a bank wants to launch a targeted ad marketing campaign by dividing their customers into at least 3 distinctive groups. The dataset summarizes the usage behavior of about 9000 active credit card holders during the last 6 months, containing a total of 17 features.
+/The marketing team of a bank wants to launch a targeted ad marketing campaign by dividing their customers into at least 3 distinctive groups. The dataset summarizes the usage behavior of about 9000 active credit card holders during the last 6 months, containing a total of 17 features.
 
 **PROJECT SUMMARY**
 Unsupervised learning techniques are to divide customers in segments based on their credit card consumption habits. 
